@@ -25,6 +25,3 @@ else:
         print (“Son diviseur est  : ”, ses_diviseurs(n))
     else:
         print (“Ses diviseurs sont  : “, ses_diviseurs(n))
-
-
----------------------------------------------------------------------- Résultat ----------------------------------------------------------------------------
